@@ -1,0 +1,69 @@
+1686236951174	geckodriver	INFO	Listening on 127.0.0.1:29509
+1686236954227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29510" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kings\\AppData\\Local\\Temp\\rust_mozprofilePaGq9B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686236954543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686236954549	Marionette	INFO	Listening on port 29531
+Read port: 29531
+WebDriver BiDi listening on ws://127.0.0.1:29510
+1686236954683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:29510/devtools/browser/7086a933-ece7-47fb-8b6f-f5d3af0481d0
+JavaScript warning: https://www.justdial.com/vUUqXUBG1Gz0AQyx8yJjCMz9/akf72DJhQbY93f/LFtobS0ANwE/SF5hDGNr/Bmo, line 1: unreachable code after return statement
+JavaScript warning: https://www.justdial.com/vUUqXUBG1Gz0AQyx8yJjCMz9/akf72DJhQbY93f/LFtobS0ANwE/SF5hDGNr/Bmo, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1686245325320	Marionette	INFO	Stopped listening on port 29531
+Dynamically enable window occlusion 1
+1686493718985	geckodriver	INFO	Listening on 127.0.0.1:9673
+1686493722059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kings\\AppData\\Local\\Temp\\rust_mozprofileWzHA5F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686493722527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686493722532	Marionette	INFO	Listening on port 9688
+Read port: 9688
+WebDriver BiDi listening on ws://127.0.0.1:9674
+1686493722693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9674/devtools/browser/78c96398-c3bf-43b4-a518-f2cf134d6a11
+1686493766827	Marionette	INFO	Stopped listening on port 9688
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kings\\AppData\\Local\\Temp\\rust_mozprofilek0uQe3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686493745743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686493745747	Marionette	INFO	Listening on port 9751
+Read port: 9751
+WebDriver BiDi listening on ws://127.0.0.1:9741
+1686493745889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9741/devtools/browser/779bb44a-cfd6-44c5-b51d-7ecdc540a7c6
+1686493765937	Marionette	INFO	Stopped listening on port 9751686493768745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kings\\AppData\\Local\\Temp\\rust_mozprofileSU5Vyr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686493769063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686493769067	Marionette	INFO	Listening on port 9815
+Read port: 9815
+WebDriver BiDi listening on ws://127.0.0.1:9803
+1686493769319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9803/devtools/browser/234339af-f191-4d5e-843d-0375acc791a9
+1686493771703	Marionette	INFO	Stopped listening on port 9815
+Dynamically enable window occlusion 1
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 414))
