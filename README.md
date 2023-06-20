@@ -1,0 +1,1 @@
+Tried out browser automation with selenium and playwright 
